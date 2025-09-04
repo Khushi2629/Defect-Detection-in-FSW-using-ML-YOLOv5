@@ -1,0 +1,5 @@
+train: /Users/khushipal/Desktop/BTP_YOLO/train/images
+val: /Users/khushipal/Desktop/BTP_YOLO/val/images
+
+nc: 6
+names: ['keyhole', 'flash', 'grooves', 'microcracks', 'voids', 'defectless']
