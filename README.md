@@ -27,6 +27,9 @@
 
 6. Defectless
 
+   <img width="699" height="231" alt="Screenshot 2025-09-06 at 7 26 48 PM" src="https://github.com/user-attachments/assets/aa60aa7b-cfb4-4f78-87f7-8fcd04cfdbea" />
+
+
 # 🚀 Training
 
 To train the model:
