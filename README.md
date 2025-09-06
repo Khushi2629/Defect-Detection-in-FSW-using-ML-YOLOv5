@@ -76,15 +76,18 @@ LabelImg (for annotation)
 
 <img width="1470" height="956" alt="Screenshot 2025-09-06 at 7 26 03 PM" src="https://github.com/user-attachments/assets/af7ccd23-6af8-4dc7-ae74-46704a8d66f5" />
 
+<img width="751" height="663" alt="Screenshot 2025-09-06 at 8 15 30 PM" src="https://github.com/user-attachments/assets/95832cee-ba73-4dd8-833d-36ea17c2ee67" />
+
+<img width="916" height="774" alt="Screenshot 2025-09-06 at 8 15 15 PM" src="https://github.com/user-attachments/assets/ca147388-18a7-48c4-a28d-4f1464aaaa62" />
+
+<img width="745" height="628" alt="Screenshot 2025-09-06 at 8 14 25 PM" src="https://github.com/user-attachments/assets/3b42f494-073a-46ad-8adf-45a7d7d344f1" />
+
+<img width="744" height="652" alt="Screenshot 2025-09-06 at 8 14 42 PM" src="https://github.com/user-attachments/assets/175c7bf6-185b-4732-94db-5e1c7d7754e7" />
 
 
-<img width="2048" height="2048" alt="Gemini_Generated_Image_70zp7s70zp7s70zp" src="https://github.com/user-attachments/assets/260b9829-e592-4ab4-bd60-36e26153548f" />
 
 
-<img width="2048" height="2048" alt="Gemini_Generated_Image_dqs3bodqs3bodqs3" src="https://github.com/user-attachments/assets/82346975-1174-44d5-b197-682c8d889fa6" />
 
-
-![mc,voids,g](https://github.com/user-attachments/assets/360d2ed8-4624-41fc-a0f3-950e0fecc655)
 
 
 
