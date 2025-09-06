@@ -51,8 +51,10 @@ python3 train.py --img 640 --batch 16 --epochs 50 --data ../BTP_YOLO/data.yaml -
 # 🔍 Inference
 
 Run inference on test images:
-python3 detect.py --weights runs/train/exp/weights/best.pt --img 640 --conf 0.25 --source ../test_images
+cd /home/your-username/Desktop/BTP_YOLO/yolov5
+python3 detect.py --weights ../BTP_YOLO/runs/train/exp/weights/best.pt --source ../BTP_YOLO/test_images/sample.jpg --save-txt --save-conf
 
+Use the latest exp run
 
 Results will be saved in:
 runs/detect/exp/
