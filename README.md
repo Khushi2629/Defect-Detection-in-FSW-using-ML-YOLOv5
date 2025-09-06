@@ -56,6 +56,11 @@ python3 detect.py --weights ../BTP_YOLO/runs/train/exp/weights/best.pt --source 
 
 Use the latest exp run
 
+Run the command in the BTP_YOLO directory:
+python3 detect_defects.py
+
+Then enter the path of the folder where you have saved the TEST images
+
 Results will be saved in:
 runs/detect/exp/
 Each output image contains bounding boxes with defect labels and confidence scores.
@@ -72,6 +77,7 @@ YOLOv5
 OpenCV
 
 LabelImg (for annotation)
+
 
 
 # Example output is below:
