@@ -86,9 +86,7 @@ LabelImg (for annotation)
 
 
 
-
-https://github.com/user-attachments/assets/3957d395-ffc1-40cb-b595-15469428a3d9
-
+https://github.com/user-attachments/assets/7374df15-de5c-40ed-9cdf-94de86cc6fe7
 
 
 
